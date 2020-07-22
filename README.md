@@ -1,3 +1,24 @@
+<h3 align="center">
+    Facemash
+    <br><br>
+</h3>
+
+## 🔖 Sobre
+
+O <strong>FaceMash</strong> foi feito para estudos em React e React-Native.
+
+## 🖼 Screenshot
+
+<img src="https://i.imgur.com/MqCIwTG.png">
+
+---
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/pedrogiampietro" target="_blank">Pedro Giampietro</a>
+</h4>
+
+
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
